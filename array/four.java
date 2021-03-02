@@ -1,4 +1,4 @@
-//Find the first position of negative values in the array
+//Find the first position of negative values in the array.
 package bai;
 
 import java.util.Scanner;
