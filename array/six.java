@@ -1,4 +1,4 @@
-//Sort the array in ascending order
+//Sort the array in ascending order.
 package bai;
 
 import java.util.Scanner;
