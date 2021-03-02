@@ -1,4 +1,4 @@
-//Add an element x to the first postion of the array
+//Add an element x to the first postion of the array.
 package bai;
 
 import java.util.Scanner;
