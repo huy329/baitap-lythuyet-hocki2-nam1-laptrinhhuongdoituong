@@ -1,4 +1,4 @@
-//List negative values in the array
+//List negative values in the array.
 package bai;
 
 import java.util.Scanner;
