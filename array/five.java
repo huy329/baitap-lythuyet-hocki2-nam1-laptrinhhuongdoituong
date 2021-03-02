@@ -1,4 +1,4 @@
-//Caculate sum of values in the array
+//Caculate sum of values in the array.
 package bai;
 
 import java.util.Scanner;
