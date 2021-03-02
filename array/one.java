@@ -1,4 +1,4 @@
-//Input and Output a 1D-Array with n integer values
+//Input and Output a 1D-Array with n integer values.
 package bai;
 
 import java.util.Scanner;
