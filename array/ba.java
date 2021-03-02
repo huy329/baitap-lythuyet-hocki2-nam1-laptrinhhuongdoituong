@@ -1,4 +1,4 @@
-//Find max value in the array
+//Find max value in the array.
 package bai;
 
 import java.util.Scanner;
