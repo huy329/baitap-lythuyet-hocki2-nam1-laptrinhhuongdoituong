@@ -1,4 +1,4 @@
-//Delete the first greater 0 element in the array
+//Delete the first greater 0 element in the array.
 package bai;
 
 import java.util.Scanner;
