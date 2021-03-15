@@ -30,10 +30,10 @@ public class six {
 		}
 		
 		for(j = c.length; j > 0; j--) {
-			if(c[i] != 32) {
+			if(c[j] != 32) {
 				break;
 			} else {
-				c[i] = '\0';
+				c[j] = '\0';
 			}
 		}
 		
